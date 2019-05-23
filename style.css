@@ -90,7 +90,7 @@ button {
 
 
 #our-services h2 {
-
+margin-top:0px;
     text-align: center;
 }
 
@@ -98,7 +98,7 @@ button {
 #our-services {
      background-image: url(floral.png);
      background-color:#efece7;
-     /*text-align: center;*/
+     text-align: center;
     
 }
 
